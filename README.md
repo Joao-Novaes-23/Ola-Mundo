@@ -5,4 +5,4 @@
  
  Essa linha eu adicionei diretamente no site, que impressionante !
  
- Essa linha foi só pra reforçar mesmo
+ Essa linha foi só pra reforçar que é possível atualizar o README do site e dar um 'pull'.
